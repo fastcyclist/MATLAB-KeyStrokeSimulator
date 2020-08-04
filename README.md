@@ -14,7 +14,7 @@ If you're using `TheShining.m`, make sure you have notepad or MS-Word ready.
 
 MATLAB - any version will do.
 If you don't have MATLAB, download exe files from here and also get [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html). The MATLAB runtime lets you run a compiled MATLAB code without a lincese.
-`Shift.exe` and `TheShining.exe` were compiled using R2015a(8.5), so download that one from the website.
+`Shift.exe` and `TheShining.exe` were compiled using `R2015a(8.5)`, so download that one from the website.
 
 ## License
 
