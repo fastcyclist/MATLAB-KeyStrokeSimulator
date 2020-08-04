@@ -22,4 +22,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [RDJ](https://en.wikipedia.org/wiki/Robert_Downey_Jr.)
+I saw the basic building blocks from Tobias's answer.
+* [Tobias Litherland](https://www.mathworks.com/matlabcentral/answers/527-artificial-simulated-key-press)
